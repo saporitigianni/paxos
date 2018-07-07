@@ -6,7 +6,7 @@ Usage
 Note: Sample test cases are provided in the under each folder
 Run using **python3 script_name args** or use **chmod +x script_name** and then **./script_name args** (might have to modify shebang line)
 
-**Question 1:** For bottleneck explanation see `main.py <https://github.com/saporitigianni/flaskapp/blob/master/main.py>`_
+**Question 1:** For bottleneck explanation see `main.py <https://github.com/saporitigianni/flaskapp/blob/master/main.py>`_.
 **For more sourcecode see separate `repo <https://github.com/saporitigianni/flaskapp>`_**
 
 .. code:: bash
