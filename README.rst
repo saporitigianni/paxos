@@ -9,7 +9,7 @@ Run using **python3 script_name args** or use **chmod +x script_name** and then 
 **Question 1:** For bottleneck explanation see `main.py <https://github.com/saporitigianni/flaskapp/blob/master/main.py>`_
 **For more sourcecode see separate `repo <https://github.com/saporitigianni/flaskapp>`_**
 
-.. code:: python
+.. code:: bash
 
     $ curl -X POST -H "Content-Type: application/json" -d '{"message": "foo"}' https://omega-palace-205901.appspot.com/messages
     {
@@ -36,7 +36,7 @@ Run using **python3 script_name args** or use **chmod +x script_name** and then 
 
 **Question 2:** For Big O explanation see `giftcard_spending.py <https://github.com/saporitigianni/paxos/blob/master/giftcard_spending/giftcard_spending.py>`_
 
-.. code:: python
+.. code:: bash
 
     # Navigate to /giftcard_spending and execute
     $ python3 giftcard_spending.py prices.txt 2500
