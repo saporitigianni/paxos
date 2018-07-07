@@ -10,13 +10,18 @@ Run using **python3 script_name args** or use **chmod +x script_name** and then 
 
 .. code:: python
 
-    pass
+    see separate `repo <https://github.com/saporitigianni/flaskapp>`_
 
 **Question 2:**
 
 .. code:: python
 
-    pass
+    # Navigate to /giftcard_spending and execute
+    $ python3 giftcard_spending.py prices.txt 2500
+    Candy Bar 500, Earmuffs 2000
+
+    # or run test cases
+    $ python3 test_giftcard_spending.py
 
 **Question 3:**
 
